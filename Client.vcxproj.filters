@@ -1,0 +1,644 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Main">
+      <UniqueIdentifier>{7d3db69a-b4b0-4a41-b467-549088ac3a74}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GAME">
+      <UniqueIdentifier>{05fbea59-08fa-4255-b627-99f548e2ae20}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GAME\02. Core">
+      <UniqueIdentifier>{3b2fdf6e-cbf8-4ad1-a575-512c5c4e0513}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GAME\01. Header">
+      <UniqueIdentifier>{b6a93c56-8078-45b5-84a2-a5b6072af3fe}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GAME\03. Manager">
+      <UniqueIdentifier>{1e0bcd66-d2eb-4b68-84fc-7c4588003742}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GAME\03. Manager\TimeMgr">
+      <UniqueIdentifier>{9f40b643-7cfe-444d-9e45-e60949956c92}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GAME\04. Object">
+      <UniqueIdentifier>{ce45a0f2-7955-4d98-adcf-da7cb5b95cc1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GAME\04. Object\Player">
+      <UniqueIdentifier>{74ddb33d-889b-4c23-a67e-84684f214d82}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GAME\03. Manager\KeyMgr">
+      <UniqueIdentifier>{70e3cf05-28e5-4d93-9864-818ff7febcab}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GAME\04. Object\Bullet">
+      <UniqueIdentifier>{09c15d8a-4cb0-4ffd-b291-3d3fe3ce8cf2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GAME\06. Resource">
+      <UniqueIdentifier>{6d3d8dbe-a319-4ed9-b3b0-ae3025f335f5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GAME\05. Component">
+      <UniqueIdentifier>{e043b5b9-1820-4101-8db8-66e10657ebe7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GAME\07. Stage">
+      <UniqueIdentifier>{db5eac50-8680-4251-b847-39fcfe2e3f92}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GAME\03. Manager\StageMgr">
+      <UniqueIdentifier>{2a4f976d-2a8b-4d4c-9971-2c30c9a3957c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GAME\07. Stage\Start">
+      <UniqueIdentifier>{ad10852f-2654-4262-93ad-d55fb509f5ca}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GAME\07. Stage\Play01">
+      <UniqueIdentifier>{4538f41e-7bc1-4e9e-b0d5-337d199e3c30}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GAME\03. Manager\ResMgr">
+      <UniqueIdentifier>{aa766787-ca7e-4ff9-ad4b-0e636c858b4e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GAME\06. Resource\Texture">
+      <UniqueIdentifier>{8f7eaa82-758e-44de-bbad-b8012a983c78}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GAME\06. Resource\Sound">
+      <UniqueIdentifier>{44f1485f-8a62-4f4e-ae83-5197afa737d8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GAME\03. Manager\PathMgr">
+      <UniqueIdentifier>{35a7bbb4-36f8-48d1-a773-a8f8580bd605}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GAME\03. Manager\EventMgr">
+      <UniqueIdentifier>{0101edc6-7070-4749-b3bf-6fb71077c98e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GAME\05. Component\01. CCollider">
+      <UniqueIdentifier>{d26fae2e-48a9-4677-ae8a-eff0e16c7de2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GAME\05. Component\02. Animator">
+      <UniqueIdentifier>{ad5d58b8-7bb7-4d78-87fa-83660ff7213c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GAME\05. Component\03. AI">
+      <UniqueIdentifier>{3d43aa62-3e54-49f8-9a08-f31fec344b5c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GAME\04. Object\Monster">
+      <UniqueIdentifier>{4b364149-c72d-4848-a1d3-83cbdff94adf}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GAME\03. Manager\CollisionMgr">
+      <UniqueIdentifier>{b27ef804-4672-4f55-8859-5cb0e11b1812}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GAME\04. Object\Bullet\GuidedBullet">
+      <UniqueIdentifier>{35a6534b-d6a0-4625-860e-c4e29b9c7d41}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GAME\04. Object\Bullet\EnergyBullet">
+      <UniqueIdentifier>{92760f29-0159-4f6c-b8c4-354089cf71ea}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GAME\03. Manager\Camera">
+      <UniqueIdentifier>{46f48905-d6ad-4c64-b703-04ea355a6db6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GAME\05. Component\02. Animator\Animation">
+      <UniqueIdentifier>{3fda1cb6-0ab8-41bf-b198-b3a2c7273fee}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GAME\07. Stage\Tool">
+      <UniqueIdentifier>{b8acdc0b-2a82-4527-8559-98c8e59e47e1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GAME\04. Object\Tile">
+      <UniqueIdentifier>{323b585b-6f3b-470d-bf2d-fb3823f20349}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GAME\04. Object\UI">
+      <UniqueIdentifier>{41eb74bb-393f-4009-8ca8-2e5100d3d6ad}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GAME\03. Manager\UIMgr">
+      <UniqueIdentifier>{a19cb541-61be-4e2e-90d3-48f06cad5e27}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GAME\04. Object\UI\BtnUI">
+      <UniqueIdentifier>{e46f9cc6-8ab9-426c-a372-581d7fd1627b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GAME\04. Object\UI\PanelUI">
+      <UniqueIdentifier>{9b0c2dd9-1d42-43a8-b56d-aa58fe02c102}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GAME\05. Component\03. AI\State">
+      <UniqueIdentifier>{d7fa8cd9-f978-415c-8df0-34741574d20e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GAME\05. Component\04. Movement">
+      <UniqueIdentifier>{0ed56d62-87e6-411e-af32-0695b554e45c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GAME\04. Object\Force">
+      <UniqueIdentifier>{73bcecc3-a7bb-4436-a34e-205a2ffc87ba}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GAME\04. Object\Block">
+      <UniqueIdentifier>{54ec179e-6268-4e77-ab2d-edc23c48f169}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GAME\07. Stage\Title">
+      <UniqueIdentifier>{d5fcec0e-8cb1-4349-8317-bf95ea94a21d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GAME\07. Stage\Stage_M">
+      <UniqueIdentifier>{b38da681-3dba-4726-a910-239797d5316b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GAME\07. Stage\Stage_M\1F">
+      <UniqueIdentifier>{b98b02ee-ce13-4b34-90e5-be72b28cfcb9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GAME\07. Stage\Stage_M\2F">
+      <UniqueIdentifier>{645236c3-10f4-4194-9ac3-6e0cf184f7e8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GAME\07. Stage\Stage_B">
+      <UniqueIdentifier>{b8f89da4-6e6e-4534-b345-b6d69a7e253b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GAME\07. Stage\Stage_G">
+      <UniqueIdentifier>{1dc6dc43-7a3d-449b-a2b4-dc847030b4d0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GAME\04. Object\Gate">
+      <UniqueIdentifier>{7b87e6a9-8d7b-4073-8410-1780fa04bf8c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GAME\04. Object\Door">
+      <UniqueIdentifier>{8bd9f13b-b732-4b32-8e76-1c875a226ab0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GAME\04. Object\Picture">
+      <UniqueIdentifier>{f0a63ab3-1790-41d2-8ae9-4980734369b6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GAME\04. Object\TEXT">
+      <UniqueIdentifier>{44819343-f578-48b7-a605-b3bafdfe6cbc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GAME\04. Object\Table">
+      <UniqueIdentifier>{eec97711-c36e-4f43-b951-720d536394a8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GAME\04. Object\UI\Script">
+      <UniqueIdentifier>{f8f003db-c9f8-4100-8b68-a2040cd5ca53}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GAME\07. Stage\ItemMenu">
+      <UniqueIdentifier>{fe9fea52-2988-4976-a7ec-680bbd9e56a3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GAME\03. Manager\SoundMgr">
+      <UniqueIdentifier>{bf418e1e-4920-43e4-bb3e-e57d961e9a53}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GAME\07. Stage\Ending">
+      <UniqueIdentifier>{a523ab77-4d60-445a-9c80-be95843675c9}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Client.h">
+      <Filter>Main</Filter>
+    </ClInclude>
+    <ClInclude Include="framework.h">
+      <Filter>Main</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource.h">
+      <Filter>Main</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>Main</Filter>
+    </ClInclude>
+    <ClInclude Include="CPlayer.h">
+      <Filter>GAME\04. Object\Player</Filter>
+    </ClInclude>
+    <ClInclude Include="pch.h">
+      <Filter>Main</Filter>
+    </ClInclude>
+    <ClInclude Include="CCore.h">
+      <Filter>GAME\02. Core</Filter>
+    </ClInclude>
+    <ClInclude Include="define.h">
+      <Filter>GAME\01. Header</Filter>
+    </ClInclude>
+    <ClInclude Include="CTimeMgr.h">
+      <Filter>GAME\03. Manager\TimeMgr</Filter>
+    </ClInclude>
+    <ClInclude Include="struct.h">
+      <Filter>GAME\01. Header</Filter>
+    </ClInclude>
+    <ClInclude Include="CObj.h">
+      <Filter>GAME\04. Object</Filter>
+    </ClInclude>
+    <ClInclude Include="CBullet.h">
+      <Filter>GAME\04. Object\Bullet</Filter>
+    </ClInclude>
+    <ClInclude Include="CStage.h">
+      <Filter>GAME\07. Stage</Filter>
+    </ClInclude>
+    <ClInclude Include="CStageMgr.h">
+      <Filter>GAME\03. Manager\StageMgr</Filter>
+    </ClInclude>
+    <ClInclude Include="CStage_Start.h">
+      <Filter>GAME\07. Stage\Start</Filter>
+    </ClInclude>
+    <ClInclude Include="CStage_Play01.h">
+      <Filter>GAME\07. Stage\Play01</Filter>
+    </ClInclude>
+    <ClInclude Include="CRes.h">
+      <Filter>GAME\06. Resource</Filter>
+    </ClInclude>
+    <ClInclude Include="CTexture.h">
+      <Filter>GAME\06. Resource\Texture</Filter>
+    </ClInclude>
+    <ClInclude Include="CResMgr.h">
+      <Filter>GAME\03. Manager\ResMgr</Filter>
+    </ClInclude>
+    <ClInclude Include="CPathMgr.h">
+      <Filter>GAME\03. Manager\PathMgr</Filter>
+    </ClInclude>
+    <ClInclude Include="CEventMgr.h">
+      <Filter>GAME\03. Manager\EventMgr</Filter>
+    </ClInclude>
+    <ClInclude Include="func.h">
+      <Filter>GAME\01. Header</Filter>
+    </ClInclude>
+    <ClInclude Include="CComponent.h">
+      <Filter>GAME\05. Component</Filter>
+    </ClInclude>
+    <ClInclude Include="CCollider.h">
+      <Filter>GAME\05. Component\01. CCollider</Filter>
+    </ClInclude>
+    <ClInclude Include="CAnimator.h">
+      <Filter>GAME\05. Component\02. Animator</Filter>
+    </ClInclude>
+    <ClInclude Include="CFSM.h">
+      <Filter>GAME\05. Component\03. AI</Filter>
+    </ClInclude>
+    <ClInclude Include="CMonster.h">
+      <Filter>GAME\04. Object\Monster</Filter>
+    </ClInclude>
+    <ClInclude Include="CCollisionMgr.h">
+      <Filter>GAME\03. Manager\CollisionMgr</Filter>
+    </ClInclude>
+    <ClInclude Include="CGuidedBullet.h">
+      <Filter>GAME\04. Object\Bullet\GuidedBullet</Filter>
+    </ClInclude>
+    <ClInclude Include="CEnergyBullet.h">
+      <Filter>GAME\04. Object\Bullet\EnergyBullet</Filter>
+    </ClInclude>
+    <ClInclude Include="CCamera.h">
+      <Filter>GAME\03. Manager\Camera</Filter>
+    </ClInclude>
+    <ClInclude Include="CAnimation.h">
+      <Filter>GAME\05. Component\02. Animator\Animation</Filter>
+    </ClInclude>
+    <ClInclude Include="CStage_Tool.h">
+      <Filter>GAME\07. Stage\Tool</Filter>
+    </ClInclude>
+    <ClInclude Include="CTile.h">
+      <Filter>GAME\04. Object\Tile</Filter>
+    </ClInclude>
+    <ClInclude Include="CKeyMgr.h">
+      <Filter>GAME\03. Manager\KeyMgr</Filter>
+    </ClInclude>
+    <ClInclude Include="CUI.h">
+      <Filter>GAME\04. Object\UI</Filter>
+    </ClInclude>
+    <ClInclude Include="CUIMgr.h">
+      <Filter>GAME\03. Manager\UIMgr</Filter>
+    </ClInclude>
+    <ClInclude Include="CBtnUI.h">
+      <Filter>GAME\04. Object\UI\BtnUI</Filter>
+    </ClInclude>
+    <ClInclude Include="CPanel.h">
+      <Filter>GAME\04. Object\UI\PanelUI</Filter>
+    </ClInclude>
+    <ClInclude Include="CState.h">
+      <Filter>GAME\05. Component\03. AI\State</Filter>
+    </ClInclude>
+    <ClInclude Include="CState_Trace.h">
+      <Filter>GAME\05. Component\03. AI\State</Filter>
+    </ClInclude>
+    <ClInclude Include="CState_Attack.h">
+      <Filter>GAME\05. Component\03. AI\State</Filter>
+    </ClInclude>
+    <ClInclude Include="CState_Dead.h">
+      <Filter>GAME\05. Component\03. AI\State</Filter>
+    </ClInclude>
+    <ClInclude Include="CState_Idle.h">
+      <Filter>GAME\05. Component\03. AI\State</Filter>
+    </ClInclude>
+    <ClInclude Include="CMovement.h">
+      <Filter>GAME\05. Component\04. Movement</Filter>
+    </ClInclude>
+    <ClInclude Include="CForcePoint.h">
+      <Filter>GAME\04. Object\Force</Filter>
+    </ClInclude>
+    <ClInclude Include="CBlock.h">
+      <Filter>GAME\04. Object\Block</Filter>
+    </ClInclude>
+    <ClInclude Include="CTitle.h">
+      <Filter>GAME\07. Stage\Title</Filter>
+    </ClInclude>
+    <ClInclude Include="Stage_M_1F_00.h">
+      <Filter>GAME\07. Stage\Stage_M\1F</Filter>
+    </ClInclude>
+    <ClInclude Include="Stage_M_1F_01.h">
+      <Filter>GAME\07. Stage\Stage_M\1F</Filter>
+    </ClInclude>
+    <ClInclude Include="Stage_M_1F_02.h">
+      <Filter>GAME\07. Stage\Stage_M\1F</Filter>
+    </ClInclude>
+    <ClInclude Include="Stage_M_1F_03.h">
+      <Filter>GAME\07. Stage\Stage_M\1F</Filter>
+    </ClInclude>
+    <ClInclude Include="Stage_M_2F_01.h">
+      <Filter>GAME\07. Stage\Stage_M\2F</Filter>
+    </ClInclude>
+    <ClInclude Include="Stage_M_2F_02.h">
+      <Filter>GAME\07. Stage\Stage_M\2F</Filter>
+    </ClInclude>
+    <ClInclude Include="Stage_B_00.h">
+      <Filter>GAME\07. Stage\Stage_B</Filter>
+    </ClInclude>
+    <ClInclude Include="Stage_B_01.h">
+      <Filter>GAME\07. Stage\Stage_B</Filter>
+    </ClInclude>
+    <ClInclude Include="Stage_B_02.h">
+      <Filter>GAME\07. Stage\Stage_B</Filter>
+    </ClInclude>
+    <ClInclude Include="Stage_B_03.h">
+      <Filter>GAME\07. Stage\Stage_B</Filter>
+    </ClInclude>
+    <ClInclude Include="Stage_B_04.h">
+      <Filter>GAME\07. Stage\Stage_B</Filter>
+    </ClInclude>
+    <ClInclude Include="Stage_G_01.h">
+      <Filter>GAME\07. Stage\Stage_G</Filter>
+    </ClInclude>
+    <ClInclude Include="Stage_G_02.h">
+      <Filter>GAME\07. Stage\Stage_G</Filter>
+    </ClInclude>
+    <ClInclude Include="Stage_G_03.h">
+      <Filter>GAME\07. Stage\Stage_G</Filter>
+    </ClInclude>
+    <ClInclude Include="CGate.h">
+      <Filter>GAME\04. Object\Gate</Filter>
+    </ClInclude>
+    <ClInclude Include="CDoor.h">
+      <Filter>GAME\04. Object\Door</Filter>
+    </ClInclude>
+    <ClInclude Include="CPicture.h">
+      <Filter>GAME\04. Object\Picture</Filter>
+    </ClInclude>
+    <ClInclude Include="CText.h">
+      <Filter>GAME\04. Object\TEXT</Filter>
+    </ClInclude>
+    <ClInclude Include="CTable.h">
+      <Filter>GAME\04. Object\Table</Filter>
+    </ClInclude>
+    <ClInclude Include="CScript.h">
+      <Filter>GAME\04. Object\UI\Script</Filter>
+    </ClInclude>
+    <ClInclude Include="CItemMenu.h">
+      <Filter>GAME\07. Stage\ItemMenu</Filter>
+    </ClInclude>
+    <ClInclude Include="Stage_M_1F_01_02.h">
+      <Filter>GAME\07. Stage\Stage_M\1F</Filter>
+    </ClInclude>
+    <ClInclude Include="Stage_M_1F_pic.h">
+      <Filter>GAME\07. Stage\Stage_M\2F</Filter>
+    </ClInclude>
+    <ClInclude Include="CHand.h">
+      <Filter>GAME\04. Object\Monster</Filter>
+    </ClInclude>
+    <ClInclude Include="CStartScript.h">
+      <Filter>GAME\07. Stage\Title</Filter>
+    </ClInclude>
+    <ClInclude Include="CStartAnimation.h">
+      <Filter>GAME\07. Stage\Title</Filter>
+    </ClInclude>
+    <ClInclude Include="CSoundMgr.h">
+      <Filter>GAME\03. Manager\SoundMgr</Filter>
+    </ClInclude>
+    <ClInclude Include="CSound.h">
+      <Filter>GAME\06. Resource\Sound</Filter>
+    </ClInclude>
+    <ClInclude Include="EndStage.h">
+      <Filter>GAME\07. Stage\Ending</Filter>
+    </ClInclude>
+    <ClInclude Include="GameOver.h">
+      <Filter>GAME\07. Stage\Ending</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="Client.rc">
+      <Filter>리소스 파일</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="small.ico">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="Client.ico">
+      <Filter>리소스 파일</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>Main</Filter>
+    </ClCompile>
+    <ClCompile Include="CPlayer.cpp">
+      <Filter>GAME\04. Object\Player</Filter>
+    </ClCompile>
+    <ClCompile Include="CCore.cpp">
+      <Filter>GAME\02. Core</Filter>
+    </ClCompile>
+    <ClCompile Include="CTimeMgr.cpp">
+      <Filter>GAME\03. Manager\TimeMgr</Filter>
+    </ClCompile>
+    <ClCompile Include="CKeyMgr.cpp">
+      <Filter>GAME\03. Manager\KeyMgr</Filter>
+    </ClCompile>
+    <ClCompile Include="CObj.cpp">
+      <Filter>GAME\04. Object</Filter>
+    </ClCompile>
+    <ClCompile Include="CBullet.cpp">
+      <Filter>GAME\04. Object\Bullet</Filter>
+    </ClCompile>
+    <ClCompile Include="CStage.cpp">
+      <Filter>GAME\07. Stage</Filter>
+    </ClCompile>
+    <ClCompile Include="CStageMgr.cpp">
+      <Filter>GAME\03. Manager\StageMgr</Filter>
+    </ClCompile>
+    <ClCompile Include="CStage_Start.cpp">
+      <Filter>GAME\07. Stage\Start</Filter>
+    </ClCompile>
+    <ClCompile Include="CStage_Play01.cpp">
+      <Filter>GAME\07. Stage\Play01</Filter>
+    </ClCompile>
+    <ClCompile Include="CRes.cpp">
+      <Filter>GAME\06. Resource</Filter>
+    </ClCompile>
+    <ClCompile Include="CTexture.cpp">
+      <Filter>GAME\06. Resource\Texture</Filter>
+    </ClCompile>
+    <ClCompile Include="CResMgr.cpp">
+      <Filter>GAME\03. Manager\ResMgr</Filter>
+    </ClCompile>
+    <ClCompile Include="CPathMgr.cpp">
+      <Filter>GAME\03. Manager\PathMgr</Filter>
+    </ClCompile>
+    <ClCompile Include="CEventMgr.cpp">
+      <Filter>GAME\03. Manager\EventMgr</Filter>
+    </ClCompile>
+    <ClCompile Include="func.cpp">
+      <Filter>GAME\01. Header</Filter>
+    </ClCompile>
+    <ClCompile Include="CComponent.cpp">
+      <Filter>GAME\05. Component</Filter>
+    </ClCompile>
+    <ClCompile Include="CCollider.cpp">
+      <Filter>GAME\05. Component\01. CCollider</Filter>
+    </ClCompile>
+    <ClCompile Include="CAnimator.cpp">
+      <Filter>GAME\05. Component\02. Animator</Filter>
+    </ClCompile>
+    <ClCompile Include="CFSM.cpp">
+      <Filter>GAME\05. Component\03. AI</Filter>
+    </ClCompile>
+    <ClCompile Include="CMonster.cpp">
+      <Filter>GAME\04. Object\Monster</Filter>
+    </ClCompile>
+    <ClCompile Include="CCollisionMgr.cpp">
+      <Filter>GAME\03. Manager\CollisionMgr</Filter>
+    </ClCompile>
+    <ClCompile Include="CGuidedBullet.cpp">
+      <Filter>GAME\04. Object\Bullet\GuidedBullet</Filter>
+    </ClCompile>
+    <ClCompile Include="CEnergyBullet.cpp">
+      <Filter>GAME\04. Object\Bullet\EnergyBullet</Filter>
+    </ClCompile>
+    <ClCompile Include="CCamera.cpp">
+      <Filter>GAME\03. Manager\Camera</Filter>
+    </ClCompile>
+    <ClCompile Include="CAnimation.cpp">
+      <Filter>GAME\05. Component\02. Animator\Animation</Filter>
+    </ClCompile>
+    <ClCompile Include="CStage_Tool.cpp">
+      <Filter>GAME\07. Stage\Tool</Filter>
+    </ClCompile>
+    <ClCompile Include="CTile.cpp">
+      <Filter>GAME\04. Object\Tile</Filter>
+    </ClCompile>
+    <ClCompile Include="CUI.cpp">
+      <Filter>GAME\04. Object\UI</Filter>
+    </ClCompile>
+    <ClCompile Include="CUIMgr.cpp">
+      <Filter>GAME\03. Manager\UIMgr</Filter>
+    </ClCompile>
+    <ClCompile Include="CBtnUI.cpp">
+      <Filter>GAME\04. Object\UI\BtnUI</Filter>
+    </ClCompile>
+    <ClCompile Include="CPanel.cpp">
+      <Filter>GAME\04. Object\UI\PanelUI</Filter>
+    </ClCompile>
+    <ClCompile Include="CState.cpp">
+      <Filter>GAME\05. Component\03. AI\State</Filter>
+    </ClCompile>
+    <ClCompile Include="CState_Dead.cpp">
+      <Filter>GAME\05. Component\03. AI\State</Filter>
+    </ClCompile>
+    <ClCompile Include="CState_Idle.cpp">
+      <Filter>GAME\05. Component\03. AI\State</Filter>
+    </ClCompile>
+    <ClCompile Include="CState_Trace.cpp">
+      <Filter>GAME\05. Component\03. AI\State</Filter>
+    </ClCompile>
+    <ClCompile Include="CState_Attack.cpp">
+      <Filter>GAME\05. Component\03. AI\State</Filter>
+    </ClCompile>
+    <ClCompile Include="pch.cpp">
+      <Filter>Main</Filter>
+    </ClCompile>
+    <ClCompile Include="CMovement.cpp">
+      <Filter>GAME\05. Component\04. Movement</Filter>
+    </ClCompile>
+    <ClCompile Include="CForcePoint.cpp">
+      <Filter>GAME\04. Object\Force</Filter>
+    </ClCompile>
+    <ClCompile Include="CBlock.cpp">
+      <Filter>GAME\04. Object\Block</Filter>
+    </ClCompile>
+    <ClCompile Include="CTitle.cpp">
+      <Filter>GAME\07. Stage\Title</Filter>
+    </ClCompile>
+    <ClCompile Include="Stage_M_1F_00.cpp">
+      <Filter>GAME\07. Stage\Stage_M\1F</Filter>
+    </ClCompile>
+    <ClCompile Include="Stage_M_1F_01.cpp">
+      <Filter>GAME\07. Stage\Stage_M\1F</Filter>
+    </ClCompile>
+    <ClCompile Include="Stage_M_1F_02.cpp">
+      <Filter>GAME\07. Stage\Stage_M\1F</Filter>
+    </ClCompile>
+    <ClCompile Include="Stage_M_1F_03.cpp">
+      <Filter>GAME\07. Stage\Stage_M\1F</Filter>
+    </ClCompile>
+    <ClCompile Include="Stage_M_2F_01.cpp">
+      <Filter>GAME\07. Stage\Stage_M\2F</Filter>
+    </ClCompile>
+    <ClCompile Include="Stage_M_2F_02.cpp">
+      <Filter>GAME\07. Stage\Stage_M\2F</Filter>
+    </ClCompile>
+    <ClCompile Include="Stage_B_00.cpp">
+      <Filter>GAME\07. Stage\Stage_B</Filter>
+    </ClCompile>
+    <ClCompile Include="Stage_B_01.cpp">
+      <Filter>GAME\07. Stage\Stage_B</Filter>
+    </ClCompile>
+    <ClCompile Include="Stage_B_02.cpp">
+      <Filter>GAME\07. Stage\Stage_B</Filter>
+    </ClCompile>
+    <ClCompile Include="Stage_B_03.cpp">
+      <Filter>GAME\07. Stage\Stage_B</Filter>
+    </ClCompile>
+    <ClCompile Include="Stage_B_04.cpp">
+      <Filter>GAME\07. Stage\Stage_B</Filter>
+    </ClCompile>
+    <ClCompile Include="Stage_G_01.cpp">
+      <Filter>GAME\07. Stage\Stage_G</Filter>
+    </ClCompile>
+    <ClCompile Include="Stage_G_02.cpp">
+      <Filter>GAME\07. Stage\Stage_G</Filter>
+    </ClCompile>
+    <ClCompile Include="Stage_G_03.cpp">
+      <Filter>GAME\07. Stage\Stage_G</Filter>
+    </ClCompile>
+    <ClCompile Include="CGate.cpp">
+      <Filter>GAME\04. Object\Gate</Filter>
+    </ClCompile>
+    <ClCompile Include="CDoor.cpp">
+      <Filter>GAME\04. Object\Door</Filter>
+    </ClCompile>
+    <ClCompile Include="CPicture.cpp">
+      <Filter>GAME\04. Object\Picture</Filter>
+    </ClCompile>
+    <ClCompile Include="CText.cpp">
+      <Filter>GAME\04. Object\TEXT</Filter>
+    </ClCompile>
+    <ClCompile Include="CTable.cpp">
+      <Filter>GAME\04. Object\Table</Filter>
+    </ClCompile>
+    <ClCompile Include="CScript.cpp">
+      <Filter>GAME\04. Object\UI\Script</Filter>
+    </ClCompile>
+    <ClCompile Include="CItemMenu.cpp">
+      <Filter>GAME\07. Stage\ItemMenu</Filter>
+    </ClCompile>
+    <ClCompile Include="Stage_M_1F_01_02.cpp">
+      <Filter>GAME\07. Stage\Stage_M\1F</Filter>
+    </ClCompile>
+    <ClCompile Include="Stage_M_1F_pic.cpp">
+      <Filter>GAME\07. Stage\Stage_M\2F</Filter>
+    </ClCompile>
+    <ClCompile Include="CHand.cpp">
+      <Filter>GAME\04. Object\Monster</Filter>
+    </ClCompile>
+    <ClCompile Include="CStartScript.cpp">
+      <Filter>GAME\07. Stage\Title</Filter>
+    </ClCompile>
+    <ClCompile Include="CStartAnimation.cpp">
+      <Filter>GAME\07. Stage\Title</Filter>
+    </ClCompile>
+    <ClCompile Include="CSoundMgr.cpp">
+      <Filter>GAME\03. Manager\SoundMgr</Filter>
+    </ClCompile>
+    <ClCompile Include="CSound.cpp">
+      <Filter>GAME\06. Resource\Sound</Filter>
+    </ClCompile>
+    <ClCompile Include="EndStage.cpp">
+      <Filter>GAME\07. Stage\Ending</Filter>
+    </ClCompile>
+    <ClCompile Include="GameOver.cpp">
+      <Filter>GAME\07. Stage\Ending</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

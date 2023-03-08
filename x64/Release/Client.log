@@ -1,0 +1,256 @@
+﻿  pch.cpp
+  CAnimation.cpp
+C:\Users\Yoo In Kyung\Desktop\수업자료\WinAPI_4주4일\Client\CMovement.h(43,62): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Yoo In Kyung\Desktop\수업자료\WinAPI_4주4일\Client\CMovement.h(44,62): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  CBlock.cpp
+C:\Users\Yoo In Kyung\Desktop\수업자료\WinAPI_4주4일\Client\CMovement.h(43,62): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Yoo In Kyung\Desktop\수업자료\WinAPI_4주4일\Client\CMovement.h(44,62): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  CBtnUI.cpp
+C:\Users\Yoo In Kyung\Desktop\수업자료\WinAPI_4주4일\Client\CMovement.h(43,62): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Yoo In Kyung\Desktop\수업자료\WinAPI_4주4일\Client\CMovement.h(44,62): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  CCamera.cpp
+C:\Users\Yoo In Kyung\Desktop\수업자료\WinAPI_4주4일\Client\CMovement.h(43,62): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Yoo In Kyung\Desktop\수업자료\WinAPI_4주4일\Client\CMovement.h(44,62): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+  CCollisionMgr.cpp
+C:\Users\Yoo In Kyung\Desktop\수업자료\WinAPI_4주4일\Client\CMovement.h(43,62): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Yoo In Kyung\Desktop\수업자료\WinAPI_4주4일\Client\CMovement.h(44,62): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  CDoor.cpp
+C:\Users\Yoo In Kyung\Desktop\수업자료\WinAPI_4주4일\Client\CMovement.h(43,62): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Yoo In Kyung\Desktop\수업자료\WinAPI_4주4일\Client\CMovement.h(44,62): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  CEnergyBullet.cpp
+C:\Users\Yoo In Kyung\Desktop\수업자료\WinAPI_4주4일\Client\CMovement.h(43,62): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Yoo In Kyung\Desktop\수업자료\WinAPI_4주4일\Client\CMovement.h(44,62): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  CForcePoint.cpp
+C:\Users\Yoo In Kyung\Desktop\수업자료\WinAPI_4주4일\Client\CMovement.h(43,62): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Yoo In Kyung\Desktop\수업자료\WinAPI_4주4일\Client\CMovement.h(44,62): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Yoo In Kyung\Desktop\수업자료\WinAPI_4주4일\Client\CForcePoint.cpp(46,16): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  CFSM.cpp
+C:\Users\Yoo In Kyung\Desktop\수업자료\WinAPI_4주4일\Client\CMovement.h(43,62): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Yoo In Kyung\Desktop\수업자료\WinAPI_4주4일\Client\CMovement.h(44,62): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  CAnimator.cpp
+  CBullet.cpp
+C:\Users\Yoo In Kyung\Desktop\수업자료\WinAPI_4주4일\Client\CMovement.h(43,62): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Yoo In Kyung\Desktop\수업자료\WinAPI_4주4일\Client\CMovement.h(44,62): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  CCollider.cpp
+C:\Users\Yoo In Kyung\Desktop\수업자료\WinAPI_4주4일\Client\CMovement.h(43,62): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Yoo In Kyung\Desktop\수업자료\WinAPI_4주4일\Client\CMovement.h(44,62): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  CComponent.cpp
+  CCore.cpp
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+  CEventMgr.cpp
+C:\Users\Yoo In Kyung\Desktop\수업자료\WinAPI_4주4일\Client\CMovement.h(43,62): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Yoo In Kyung\Desktop\수업자료\WinAPI_4주4일\Client\CMovement.h(44,62): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  CGate.cpp
+C:\Users\Yoo In Kyung\Desktop\수업자료\WinAPI_4주4일\Client\CMovement.h(43,62): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Yoo In Kyung\Desktop\수업자료\WinAPI_4주4일\Client\CMovement.h(44,62): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  CGuidedBullet.cpp
+C:\Users\Yoo In Kyung\Desktop\수업자료\WinAPI_4주4일\Client\CMovement.h(43,62): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Yoo In Kyung\Desktop\수업자료\WinAPI_4주4일\Client\CMovement.h(44,62): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  CHand.cpp
+C:\Users\Yoo In Kyung\Desktop\수업자료\WinAPI_4주4일\Client\CMovement.h(43,62): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Yoo In Kyung\Desktop\수업자료\WinAPI_4주4일\Client\CMovement.h(44,62): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+  CItemMenu.cpp
+  CKeyMgr.cpp
+  컴파일하고 있습니다...
+  CPicture.cpp
+C:\Users\Yoo In Kyung\Desktop\수업자료\WinAPI_4주4일\Client\CMovement.h(43,62): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Yoo In Kyung\Desktop\수업자료\WinAPI_4주4일\Client\CMovement.h(44,62): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Yoo In Kyung\Desktop\수업자료\WinAPI_4주4일\Client\CPicture.cpp(63,18): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Yoo In Kyung\Desktop\수업자료\WinAPI_4주4일\Client\CPicture.cpp(62,18): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  CScript.cpp
+C:\Users\Yoo In Kyung\Desktop\수업자료\WinAPI_4주4일\Client\CMovement.h(43,62): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Yoo In Kyung\Desktop\수업자료\WinAPI_4주4일\Client\CMovement.h(44,62): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Yoo In Kyung\Desktop\수업자료\WinAPI_4주4일\Client\CScript.cpp(41,16): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Yoo In Kyung\Desktop\수업자료\WinAPI_4주4일\Client\CScript.cpp(40,16): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Yoo In Kyung\Desktop\수업자료\WinAPI_4주4일\Client\CScript.cpp(51,23): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Yoo In Kyung\Desktop\수업자료\WinAPI_4주4일\Client\CScript.cpp(50,23): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Yoo In Kyung\Desktop\수업자료\WinAPI_4주4일\Client\CScript.cpp(49,39): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Yoo In Kyung\Desktop\수업자료\WinAPI_4주4일\Client\CScript.cpp(49,20): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  CSound.cpp
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+  CSoundMgr.cpp
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+  CStartAnimation.cpp
+C:\Users\Yoo In Kyung\Desktop\수업자료\WinAPI_4주4일\Client\CMovement.h(43,62): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Yoo In Kyung\Desktop\수업자료\WinAPI_4주4일\Client\CMovement.h(44,62): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+  CStartScript.cpp
+C:\Users\Yoo In Kyung\Desktop\수업자료\WinAPI_4주4일\Client\CMovement.h(43,62): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Yoo In Kyung\Desktop\수업자료\WinAPI_4주4일\Client\CMovement.h(44,62): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+  CTable.cpp
+C:\Users\Yoo In Kyung\Desktop\수업자료\WinAPI_4주4일\Client\CMovement.h(43,62): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Yoo In Kyung\Desktop\수업자료\WinAPI_4주4일\Client\CMovement.h(44,62): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Yoo In Kyung\Desktop\수업자료\WinAPI_4주4일\Client\CTable.cpp(48,18): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Yoo In Kyung\Desktop\수업자료\WinAPI_4주4일\Client\CTable.cpp(47,18): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  CText.cpp
+C:\Users\Yoo In Kyung\Desktop\수업자료\WinAPI_4주4일\Client\CMovement.h(43,62): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Yoo In Kyung\Desktop\수업자료\WinAPI_4주4일\Client\CMovement.h(44,62): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Yoo In Kyung\Desktop\수업자료\WinAPI_4주4일\Client\CText.cpp(85,18): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Yoo In Kyung\Desktop\수업자료\WinAPI_4주4일\Client\CText.cpp(84,18): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  CTitle.cpp
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+C:\Users\Yoo In Kyung\Desktop\수업자료\WinAPI_4주4일\Client\CTitle.cpp(127,31): warning C4244: '=': 'float'에서 'BYTE'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Yoo In Kyung\Desktop\수업자료\WinAPI_4주4일\Client\CTitle.cpp(132,20): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Yoo In Kyung\Desktop\수업자료\WinAPI_4주4일\Client\CTitle.cpp(131,20): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  CMonster.cpp
+C:\Users\Yoo In Kyung\Desktop\수업자료\WinAPI_4주4일\Client\CMovement.h(43,62): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Yoo In Kyung\Desktop\수업자료\WinAPI_4주4일\Client\CMovement.h(44,62): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+  CMovement.cpp
+C:\Users\Yoo In Kyung\Desktop\수업자료\WinAPI_4주4일\Client\CMovement.h(43,62): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Yoo In Kyung\Desktop\수업자료\WinAPI_4주4일\Client\CMovement.h(44,62): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  CObj.cpp
+C:\Users\Yoo In Kyung\Desktop\수업자료\WinAPI_4주4일\Client\CMovement.h(43,62): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Yoo In Kyung\Desktop\수업자료\WinAPI_4주4일\Client\CMovement.h(44,62): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  CPanel.cpp
+C:\Users\Yoo In Kyung\Desktop\수업자료\WinAPI_4주4일\Client\CMovement.h(43,62): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Yoo In Kyung\Desktop\수업자료\WinAPI_4주4일\Client\CMovement.h(44,62): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Yoo In Kyung\Desktop\수업자료\WinAPI_4주4일\Client\CPanel.cpp(54,28): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Yoo In Kyung\Desktop\수업자료\WinAPI_4주4일\Client\CPanel.cpp(54,14): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Yoo In Kyung\Desktop\수업자료\WinAPI_4주4일\Client\CPanel.cpp(53,24): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Yoo In Kyung\Desktop\수업자료\WinAPI_4주4일\Client\CPanel.cpp(53,12): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  CPathMgr.cpp
+  CRes.cpp
+  CResMgr.cpp
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+  CStage.cpp
+C:\Users\Yoo In Kyung\Desktop\수업자료\WinAPI_4주4일\Client\CMovement.h(43,62): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Yoo In Kyung\Desktop\수업자료\WinAPI_4주4일\Client\CMovement.h(44,62): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Yoo In Kyung\Desktop\수업자료\WinAPI_4주4일\Client\CStage.cpp(144,23): warning C4018: '>': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\Yoo In Kyung\Desktop\수업자료\WinAPI_4주4일\Client\CStage.cpp(156,23): warning C4018: '>': signed 또는 unsigned가 일치하지 않습니다.
+  CStageMgr.cpp
+C:\Users\Yoo In Kyung\Desktop\수업자료\WinAPI_4주4일\Client\CMovement.h(43,62): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Yoo In Kyung\Desktop\수업자료\WinAPI_4주4일\Client\CMovement.h(44,62): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+  CStage_Play01.cpp
+C:\Users\Yoo In Kyung\Desktop\수업자료\WinAPI_4주4일\Client\CMovement.h(43,62): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Yoo In Kyung\Desktop\수업자료\WinAPI_4주4일\Client\CMovement.h(44,62): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+  CStage_Start.cpp
+  컴파일하고 있습니다...
+  CStage_Tool.cpp
+C:\Users\Yoo In Kyung\Desktop\수업자료\WinAPI_4주4일\Client\CMovement.h(43,62): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Yoo In Kyung\Desktop\수업자료\WinAPI_4주4일\Client\CMovement.h(44,62): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Yoo In Kyung\Desktop\수업자료\WinAPI_4주4일\Client\CStage_Tool.cpp(170,13): warning C4244: '초기화 중': 'INT_PTR'에서 'DWORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  CState.cpp
+C:\Users\Yoo In Kyung\Desktop\수업자료\WinAPI_4주4일\Client\CMovement.h(43,62): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Yoo In Kyung\Desktop\수업자료\WinAPI_4주4일\Client\CMovement.h(44,62): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  CState_Attack.cpp
+C:\Users\Yoo In Kyung\Desktop\수업자료\WinAPI_4주4일\Client\CMovement.h(43,62): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Yoo In Kyung\Desktop\수업자료\WinAPI_4주4일\Client\CMovement.h(44,62): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  CState_Dead.cpp
+C:\Users\Yoo In Kyung\Desktop\수업자료\WinAPI_4주4일\Client\CMovement.h(43,62): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Yoo In Kyung\Desktop\수업자료\WinAPI_4주4일\Client\CMovement.h(44,62): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  CState_Idle.cpp
+C:\Users\Yoo In Kyung\Desktop\수업자료\WinAPI_4주4일\Client\CMovement.h(43,62): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Yoo In Kyung\Desktop\수업자료\WinAPI_4주4일\Client\CMovement.h(44,62): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  CState_Trace.cpp
+C:\Users\Yoo In Kyung\Desktop\수업자료\WinAPI_4주4일\Client\CMovement.h(43,62): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Yoo In Kyung\Desktop\수업자료\WinAPI_4주4일\Client\CMovement.h(44,62): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  CTexture.cpp
+  CTile.cpp
+C:\Users\Yoo In Kyung\Desktop\수업자료\WinAPI_4주4일\Client\CMovement.h(43,62): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Yoo In Kyung\Desktop\수업자료\WinAPI_4주4일\Client\CMovement.h(44,62): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Yoo In Kyung\Desktop\수업자료\WinAPI_4주4일\Client\CTile.cpp(42,16): warning C4018: '>=': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\Yoo In Kyung\Desktop\수업자료\WinAPI_4주4일\Client\CTile.cpp(90,18): warning C4018: '>=': signed 또는 unsigned가 일치하지 않습니다.
+  CTimeMgr.cpp
+  CUI.cpp
+C:\Users\Yoo In Kyung\Desktop\수업자료\WinAPI_4주4일\Client\CMovement.h(43,62): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Yoo In Kyung\Desktop\수업자료\WinAPI_4주4일\Client\CMovement.h(44,62): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  CUIMgr.cpp
+C:\Users\Yoo In Kyung\Desktop\수업자료\WinAPI_4주4일\Client\CMovement.h(43,62): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Yoo In Kyung\Desktop\수업자료\WinAPI_4주4일\Client\CMovement.h(44,62): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  EndStage.cpp
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+  func.cpp
+C:\Users\Yoo In Kyung\Desktop\수업자료\WinAPI_4주4일\Client\CMovement.h(43,62): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Yoo In Kyung\Desktop\수업자료\WinAPI_4주4일\Client\CMovement.h(44,62): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  GameOver.cpp
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+  main.cpp
+  Stage_B_00.cpp
+C:\Users\Yoo In Kyung\Desktop\수업자료\WinAPI_4주4일\Client\CMovement.h(43,62): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Yoo In Kyung\Desktop\수업자료\WinAPI_4주4일\Client\CMovement.h(44,62): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+  Stage_B_01.cpp
+C:\Users\Yoo In Kyung\Desktop\수업자료\WinAPI_4주4일\Client\CMovement.h(43,62): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Yoo In Kyung\Desktop\수업자료\WinAPI_4주4일\Client\CMovement.h(44,62): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+  Stage_B_02.cpp
+C:\Users\Yoo In Kyung\Desktop\수업자료\WinAPI_4주4일\Client\CMovement.h(43,62): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Yoo In Kyung\Desktop\수업자료\WinAPI_4주4일\Client\CMovement.h(44,62): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+  Stage_B_03.cpp
+C:\Users\Yoo In Kyung\Desktop\수업자료\WinAPI_4주4일\Client\CMovement.h(43,62): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Yoo In Kyung\Desktop\수업자료\WinAPI_4주4일\Client\CMovement.h(44,62): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+  Stage_B_04.cpp
+C:\Users\Yoo In Kyung\Desktop\수업자료\WinAPI_4주4일\Client\CMovement.h(43,62): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Yoo In Kyung\Desktop\수업자료\WinAPI_4주4일\Client\CMovement.h(44,62): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+  컴파일하고 있습니다...
+  Stage_G_01.cpp
+C:\Users\Yoo In Kyung\Desktop\수업자료\WinAPI_4주4일\Client\CMovement.h(43,62): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Yoo In Kyung\Desktop\수업자료\WinAPI_4주4일\Client\CMovement.h(44,62): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+C:\Users\Yoo In Kyung\Desktop\수업자료\WinAPI_4주4일\Client\Stage_G_01.cpp(452,33): warning C4244: '=': 'float'에서 'BYTE'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Yoo In Kyung\Desktop\수업자료\WinAPI_4주4일\Client\Stage_G_01.cpp(457,22): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Yoo In Kyung\Desktop\수업자료\WinAPI_4주4일\Client\Stage_G_01.cpp(456,22): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Stage_G_02.cpp
+C:\Users\Yoo In Kyung\Desktop\수업자료\WinAPI_4주4일\Client\CMovement.h(43,62): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Yoo In Kyung\Desktop\수업자료\WinAPI_4주4일\Client\CMovement.h(44,62): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+  Stage_G_03.cpp
+C:\Users\Yoo In Kyung\Desktop\수업자료\WinAPI_4주4일\Client\CMovement.h(43,62): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Yoo In Kyung\Desktop\수업자료\WinAPI_4주4일\Client\CMovement.h(44,62): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+  Stage_M_1F_00.cpp
+C:\Users\Yoo In Kyung\Desktop\수업자료\WinAPI_4주4일\Client\CMovement.h(43,62): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Yoo In Kyung\Desktop\수업자료\WinAPI_4주4일\Client\CMovement.h(44,62): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+C:\Users\Yoo In Kyung\Desktop\수업자료\WinAPI_4주4일\Client\Stage_M_1F_00.cpp(231,34): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\Yoo In Kyung\Desktop\수업자료\WinAPI_4주4일\Client\Stage_M_1F_00.cpp(232,39): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\Yoo In Kyung\Desktop\수업자료\WinAPI_4주4일\Client\Stage_M_1F_00.cpp(233,34): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+  Stage_M_1F_01.cpp
+C:\Users\Yoo In Kyung\Desktop\수업자료\WinAPI_4주4일\Client\CMovement.h(43,62): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Yoo In Kyung\Desktop\수업자료\WinAPI_4주4일\Client\CMovement.h(44,62): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+  Stage_M_1F_01_02.cpp
+C:\Users\Yoo In Kyung\Desktop\수업자료\WinAPI_4주4일\Client\CMovement.h(43,62): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Yoo In Kyung\Desktop\수업자료\WinAPI_4주4일\Client\CMovement.h(44,62): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+  Stage_M_1F_02.cpp
+C:\Users\Yoo In Kyung\Desktop\수업자료\WinAPI_4주4일\Client\CMovement.h(43,62): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Yoo In Kyung\Desktop\수업자료\WinAPI_4주4일\Client\CMovement.h(44,62): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+  Stage_M_1F_03.cpp
+C:\Users\Yoo In Kyung\Desktop\수업자료\WinAPI_4주4일\Client\CMovement.h(43,62): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Yoo In Kyung\Desktop\수업자료\WinAPI_4주4일\Client\CMovement.h(44,62): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+  Stage_M_1F_pic.cpp
+C:\Users\Yoo In Kyung\Desktop\수업자료\WinAPI_4주4일\Client\CMovement.h(43,62): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Yoo In Kyung\Desktop\수업자료\WinAPI_4주4일\Client\CMovement.h(44,62): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+  Stage_M_2F_01.cpp
+C:\Users\Yoo In Kyung\Desktop\수업자료\WinAPI_4주4일\Client\CMovement.h(43,62): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Yoo In Kyung\Desktop\수업자료\WinAPI_4주4일\Client\CMovement.h(44,62): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+  Stage_M_2F_02.cpp
+C:\Users\Yoo In Kyung\Desktop\수업자료\WinAPI_4주4일\Client\CMovement.h(43,62): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Yoo In Kyung\Desktop\수업자료\WinAPI_4주4일\Client\CMovement.h(44,62): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+  CPlayer.cpp
+C:\Users\Yoo In Kyung\Desktop\수업자료\WinAPI_4주4일\Client\CMovement.h(43,62): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Yoo In Kyung\Desktop\수업자료\WinAPI_4주4일\Client\CMovement.h(44,62): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+  코드를 생성하고 있습니다.
+  Previous IPDB not found, fall back to full compilation.
+C:\Users\Yoo In Kyung\Desktop\수업자료\WinAPI_4주4일\Client\CTile.cpp(120): warning C4715: 'CTile::CheckImgIdxToMove': 모든 제어 경로에서 값을 반환하지는 않습니다.
+C:\Users\Yoo In Kyung\Desktop\수업자료\WinAPI_4주4일\Client\CMonster.cpp(140): warning C4715: 'CMonster::CanIMoveNextTile': 모든 제어 경로에서 값을 반환하지는 않습니다.
+C:\Users\Yoo In Kyung\Desktop\수업자료\WinAPI_4주4일\Client\CPlayer.cpp(432): warning C4715: 'CPlayer::CanIMoveNextTile': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  All 1921 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  코드를 생성했습니다.
+  Client.vcxproj -> C:\Users\Yoo In Kyung\Desktop\수업자료\WinAPI_4주4일\OutputFile\bin\Client.exe
